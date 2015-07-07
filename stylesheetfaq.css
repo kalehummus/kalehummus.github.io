@@ -1,9 +1,10 @@
 * { margin: 0; padding: 10}
  box-sizing: border-box;
- h1 {
-  font-family: 'Merriweather', serif; color: #404040;
-}
+
  h3 {font-family: 'Merriweather', serif; color: #404040 ;}
  body {
-  font-family: 'Merriweather', serif; color: 336699;
+  font-family: 'Merriweather', serif; color: 336699; text-align: center;
+}
+ h1 {
+  font-family: 'Merriweather', serif; color: #404040;
 }
