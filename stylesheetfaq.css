@@ -4,10 +4,13 @@ p {
     margin-right: 150px;
     margin-left: 150px;
 }
- h3 {font-family: 'Merriweather', serif; color: #404040; text-align: center;}
+
  body {
   font-family: 'Merriweather', serif; color: 336699; text-align: left;
 }
  h1 {
-  font-family: 'Merriweather', serif; color: #404040;
+  font-family: 'Merriweather', serif; color: #404040;margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
 }
