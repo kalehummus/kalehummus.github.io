@@ -1,0 +1,9 @@
+* { margin: 0; padding: 10}
+ box-sizing: border-box;
+ h1 {
+  font-family: 'Ubuntu', serif;
+}
+ h3 {font-family: 'Ubuntu', serif;}
+ p {
+  font-family: 'Ubuntu', serif;
+}
