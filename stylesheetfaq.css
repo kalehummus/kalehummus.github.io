@@ -14,3 +14,7 @@ p {
     margin-right: 50px;
     margin-left: 150px;
 }
+
+img {
+    max-width:100%;
+}
